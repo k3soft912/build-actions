@@ -7,7 +7,7 @@
 git clone https://github.com/thinktip/luci-theme-neobird package/luci-theme-neobird
 
 # 后台IP设置
-export Ipv4_ipaddr="192.168.199.1"            # 修改openwrt后台地址(填0为关闭)
+export Ipv4_ipaddr="192.168.99.1"            # 修改openwrt后台地址(填0为关闭)
 export Netmask_netm="255.255.255.0"         # IPv4 子网掩码（默认：255.255.255.0）(填0为不作修改)
 export Op_name="PowerShell"                # 修改主机名称为OpenWrt-123(填0为不作修改)
 
