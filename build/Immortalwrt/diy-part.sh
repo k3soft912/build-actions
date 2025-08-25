@@ -15,7 +15,7 @@
 git clone https://github.com/thinktip/luci-theme-neobird package/luci-theme-neobird
 git clone https://github.com/vernesong/OpenClash.git package/luci-app-openclash
 git clone https://github.com/0x676e67/luci-theme-design.git package/luci-theme-design
-git clone gh repo clone 0x676e67/luci-app-design-config package/luci-app-design-config
+git clone https://github.com/0x676e67/luci-app-design-config.git package/luci-app-design-config
 git clone https://github.com/nikkinikki-org/OpenWrt-nikki.git package/luci-app-nikki
 #git clone https://github.com/kiddin9/luci-theme-edge package/luci-theme-edge
 #git clone https://github.com/kiddin9/luci-app-dnsfilter package/luci-app-dnsfilter
