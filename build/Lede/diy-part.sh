@@ -20,9 +20,9 @@ git clone https://github.com/0x676e67/luci-theme-design package/luci-theme-desig
 git clone https://github.com/0x676e67/luci-app-design-config package/luci-app-design-config
 git clone https://github.com/nikkinikki-org/OpenWrt-nikki package/luci-app-nikki
 git clone https://github.com/nikkinikki-org/OpenWrt-momo package/luci-app-momo
-git clone https://github.com/lisaac/luci-app-dockerman package/luci-app-dockerman
-git clone https://github.com/lisaac/luci-lib-docker package/luci-lib-docker
-git clone https://github.com/kenzok8/openwrt-clashoo package/luci-app-clashoo
+#git clone https://github.com/lisaac/luci-app-dockerman package/luci-app-dockerman
+#git clone https://github.com/lisaac/luci-lib-docker package/luci-lib-docker
+#git clone https://github.com/kenzok8/openwrt-clashoo package/luci-app-clashoo
 #git clone https://github.com/kiddin9/luci-theme-edge package/luci-theme-edge
 #git clone https://github.com/kiddin9/luci-app-dnsfilter package/luci-app-dnsfilter
 
