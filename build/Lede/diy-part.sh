@@ -14,6 +14,7 @@
 #git clone https://github.com/Myoko/openwrt-packages package/openwrt-packages
 #git clone https://github.com/vernesong/OpenClash package/luci-app-openclash
 #git clone https://github.com/thinktip/luci-theme-neobird package/luci-theme-neobird
+git clone https://github.com/eamonxg/luci-theme-shadcn package/luci-theme-shadcn
 git clone https://github.com/AngelaCooljx/luci-theme-material3 package/luci-theme-material3
 git clone https://github.com/eamonxg/luci-theme-aurora package/luci-theme-aurora
 git clone https://github.com/eamonxg/luci-app-aurora-config package/luci-app-aurora-config
