@@ -13,6 +13,7 @@
 #git clone https://github.com/xiaorouji/openwrt-passwall package/luci-app-passwall
 #git clone https://github.com/Myoko/openwrt-packages package/openwrt-packages
 #git clone https://github.com/vernesong/OpenClash package/luci-app-openclash
+git clone https://github.com/sirpdboy/luci-app-netwizard package/luci-app-netwizard
 git clone https://github.com/nikkinikki-org/OpenWrt-nikki package/luci-app-nikki
 git clone https://github.com/nikkinikki-org/OpenWrt-momo package/luci-app-momo
 git clone https://github.com/thinktip/luci-theme-neobird package/luci-theme-neobird
